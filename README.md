@@ -1,1 +1,1 @@
-# Netflix_Clone
+A front-end clone of the Netflix home page built using Html and  CSS. It replicates the layout, banner, navigation bar, and horizontal movie rows using static or TMDB API data. Designed to match Netflix's dark theme with responsive design and hover effects.
